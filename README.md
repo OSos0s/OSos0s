@@ -1,5 +1,5 @@
 ### 
-
+![OSos0s's github stats](https://github-readme-stats.vercel.app/api?username=6810779s&show_icons=true&theme=midnight-purple)
 <!--
 **OSos0s/OSos0s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
